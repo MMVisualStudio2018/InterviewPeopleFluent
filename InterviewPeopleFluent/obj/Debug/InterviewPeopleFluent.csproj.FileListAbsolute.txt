@@ -1,0 +1,7 @@
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\bin\Debug\InterviewPeopleFluent.exe.config
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\bin\Debug\InterviewPeopleFluent.exe
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\bin\Debug\InterviewPeopleFluent.pdb
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\obj\Debug\InterviewPeopleFluent.csprojAssemblyReference.cache
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\obj\Debug\InterviewPeopleFluent.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\obj\Debug\InterviewPeopleFluent.exe
+C:\Users\Mohsen\source\repos\InterviewPeopleFluent\InterviewPeopleFluent\obj\Debug\InterviewPeopleFluent.pdb

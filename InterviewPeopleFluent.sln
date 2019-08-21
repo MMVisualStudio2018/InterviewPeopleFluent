@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPeopleFluent", "InterviewPeopleFluent\InterviewPeopleFluent.csproj", "{5741554F-00A6-4EE1-AECE-F87A629CE3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{55999EEC-2A22-41E0-B425-B424038A28B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5741554F-00A6-4EE1-AECE-F87A629CE3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5741554F-00A6-4EE1-AECE-F87A629CE3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5741554F-00A6-4EE1-AECE-F87A629CE3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5741554F-00A6-4EE1-AECE-F87A629CE3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55999EEC-2A22-41E0-B425-B424038A28B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55999EEC-2A22-41E0-B425-B424038A28B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55999EEC-2A22-41E0-B425-B424038A28B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55999EEC-2A22-41E0-B425-B424038A28B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C99BF13-218E-4E0F-B8FF-1DF3010463CB}
+	EndGlobalSection
+EndGlobal
